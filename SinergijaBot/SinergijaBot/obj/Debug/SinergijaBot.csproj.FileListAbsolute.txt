@@ -1,0 +1,39 @@
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Bot Application1.dll.config
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Bot Application1.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Bot Application1.pdb
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Autofac.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Chronic.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Newtonsoft.Json.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Net.Http.Formatting.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Web.Http.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Web.Http.WebHost.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Autofac.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\Newtonsoft.Json.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Net.Http.Formatting.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Web.Http.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\System.Web.Http.WebHost.xml
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\obj\Debug\Bot Application1.dll
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\obj\Debug\Bot Application1.pdb
+C:\Users\mpregl\Documents\GitHub\Sinergijabot\SinergijaBot\SinergijaBot\obj\Debug\SinergijaBot.csprojResolveAssemblyReference.cache
