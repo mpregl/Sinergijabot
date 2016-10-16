@@ -32,6 +32,8 @@ namespace SinergijaBot.Dialogs
             context.Wait(this.MessageReceived);
         }
 
+
+
         //Simple repsonse
 
         [LuisIntent("Hello")]
@@ -43,8 +45,29 @@ namespace SinergijaBot.Dialogs
         }
 
 
+        [LuisIntent("ListCommands")]
+        public async Task ListCommands(IDialogContext context, LuisResult result)
+        {
+            //do magic
 
-        
+            if (result.Intents[0].Score<0.5)
+            {
+                string message = "Not sure what you mean.";
+                await context.PostAsync(message);
+                context.Wait(MessageReceived);
+
+            }
+            else
+            {
+                string message = "I can list speakers, list top sessions and display sesson details";
+                await context.PostAsync(message);
+                context.Wait(MessageReceived);
+            }
+
+            
+        }
+
+
 
 
         //Session
